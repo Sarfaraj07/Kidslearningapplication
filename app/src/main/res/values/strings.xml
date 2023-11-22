@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KidsLearning</string>
+    <string name="belajar_seru">Fun learning with applications!</string>
+    <string name="bebanggis_developer">Developers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="belikan_kami_secangkir_kopi">Play and Learn!</string>
+    <string name="donasi">make a donation</string>
+    <string name="pencet_tombol_untuk_memulai_belajar_dan_games">Press the button to start learning and games</string>
+    <string name="binatang">Animal</string>
+    <string name="profile">profile</string>
+    <string name="klik_tombol_yang_ada_untuk_memulai_belajar_bermain_games_dan_lainnya">Press the button to start studying, playing games and more</string>
+    <string name="belajar_alfabet">Learn the Alphabet</string>
+    <string name="belajar_warna">Learn Colors</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

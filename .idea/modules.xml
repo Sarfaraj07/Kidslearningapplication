@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bebanggis.iml" filepath="$PROJECT_DIR$/.idea/modules/Bebanggis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bebanggis.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
